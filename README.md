@@ -7,7 +7,7 @@
 - **streamflow_data_via_NWIS.ipynb**  
   Extracts streamflow data for a given month and calculates the mean using the `dataretrieval.nwis` library.
 
-  - **clean_boulder_weather.csv**  
+- **clean_boulder_weather.csv**  
   Contains cleaned and pre-processed weather data for analysis in Boulder, Colorado.
 
 - **climate_data_analysis.ipynb**  
