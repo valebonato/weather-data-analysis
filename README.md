@@ -10,8 +10,11 @@
 - **clean_boulder_weather.csv**  
   Contains cleaned and pre-processed weather data for analysis in Boulder, Colorado.
 
-- **climate_data_analysis.ipynb**  
-  Explores the cleaned weather data by creating histograms of maximum temperatures across all weather stations and box-and-whisker plots of minimum and maximum temperatures to study their distribution.
+- **Summary_statistics_weather_data.ipynb**
+  Uses Pandas to calculate summary statistics of Boulder weather data and examine how transformations affect mean and standard deviation.
+
+- **weather_data_analysis.ipynb**  
+  Explores the Boulder weather data by creating histograms of maximum temperatures across all weather stations and box-and-whisker plots of minimum and maximum temperatures to study their distribution.
 
 ## Requirements
-The notebooks rely on Python libraries listed in `requirements.txt`, which can be installed with: pip install -r requirements.txt
+The notebooks rely on Python libraries listed in `requirements.txt`
